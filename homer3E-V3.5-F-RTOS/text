@@ -1,0 +1,9 @@
+SemaphoreHandle_t 							mon_semaphore = NULL;				//
+static SemaphoreHandle_t 				gsm_semaphore = NULL;       //gsm信号量
+static SemaphoreHandle_t 				gsm_send_semaphore = NULL;       //gsm信号量
+static SemaphoreHandle_t 				gnss_semaphore = NULL;				//
+SemaphoreHandle_t sema_upload_queue = NULL;  
+SemaphoreHandle_t sema_upload_cmd = NULL;  
+SemaphoreHandle_t xSemaConsole = NULL;  
+SemaphoreHandle_t xSemaphoreE2prom = NULL; 
+SemaphoreHandle_t 								can1_tx_sema = NULL;   //CAN发送互斥信号

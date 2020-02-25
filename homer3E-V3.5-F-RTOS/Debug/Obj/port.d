@@ -1,0 +1,15 @@
+.\debug\obj\port.o: rtos\src\port.c
+.\debug\obj\port.o: .\rtos\inc\FreeRTOS.h
+.\debug\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\debug\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\obj\port.o: .\rtos\inc\FreeRTOSConfig.h
+.\debug\obj\port.o: .\rtos\inc\projdefs.h
+.\debug\obj\port.o: .\rtos\inc\portable.h
+.\debug\obj\port.o: .\rtos\inc\deprecated_definitions.h
+.\debug\obj\port.o: .\rtos\inc\portmacro.h
+.\debug\obj\port.o: .\rtos\inc\mpu_wrappers.h
+.\debug\obj\port.o: .\rtos\inc\task.h
+.\debug\obj\port.o: .\rtos\inc\list.h
+.\debug\obj\port.o: .\rtos\inc\semphr.h
+.\debug\obj\port.o: .\rtos\inc\queue.h
+.\debug\obj\port.o: .\rtos\inc\timers.h

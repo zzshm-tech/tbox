@@ -1,0 +1,16 @@
+.\debug\obj\heap_4.o: rtos\src\heap_4.c
+.\debug\obj\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\debug\obj\heap_4.o: .\rtos\inc\FreeRTOS.h
+.\debug\obj\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\debug\obj\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\obj\heap_4.o: .\rtos\inc\FreeRTOSConfig.h
+.\debug\obj\heap_4.o: .\rtos\inc\projdefs.h
+.\debug\obj\heap_4.o: .\rtos\inc\portable.h
+.\debug\obj\heap_4.o: .\rtos\inc\deprecated_definitions.h
+.\debug\obj\heap_4.o: .\rtos\inc\portmacro.h
+.\debug\obj\heap_4.o: .\rtos\inc\mpu_wrappers.h
+.\debug\obj\heap_4.o: .\rtos\inc\task.h
+.\debug\obj\heap_4.o: .\rtos\inc\list.h
+.\debug\obj\heap_4.o: .\rtos\inc\semphr.h
+.\debug\obj\heap_4.o: .\rtos\inc\queue.h
+.\debug\obj\heap_4.o: .\rtos\inc\timers.h
