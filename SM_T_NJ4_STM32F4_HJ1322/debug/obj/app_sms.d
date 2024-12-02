@@ -1,0 +1,16 @@
+.\debug\obj\app_sms.o: app\app_sms.c
+.\debug\obj\app_sms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\obj\app_sms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\debug\obj\app_sms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\debug\obj\app_sms.o: .\freertos\inc\FreeRTOS.h
+.\debug\obj\app_sms.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\debug\obj\app_sms.o: .\freertos\inc\FreeRTOSConfig.h
+.\debug\obj\app_sms.o: .\freertos\inc\projdefs.h
+.\debug\obj\app_sms.o: .\freertos\inc\portable.h
+.\debug\obj\app_sms.o: .\freertos\inc\deprecated_definitions.h
+.\debug\obj\app_sms.o: .\freertos\inc\portmacro.h
+.\debug\obj\app_sms.o: .\freertos\inc\mpu_wrappers.h
+.\debug\obj\app_sms.o: .\freertos\inc\task.h
+.\debug\obj\app_sms.o: .\freertos\inc\list.h
+.\debug\obj\app_sms.o: .\freertos\inc\queue.h
+.\debug\obj\app_sms.o: app\app_sms.h

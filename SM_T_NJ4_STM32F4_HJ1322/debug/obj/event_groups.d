@@ -1,0 +1,15 @@
+.\debug\obj\event_groups.o: freertos\src\event_groups.c
+.\debug\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\debug\obj\event_groups.o: .\freertos\inc\FreeRTOS.h
+.\debug\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\debug\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\obj\event_groups.o: .\freertos\inc\FreeRTOSConfig.h
+.\debug\obj\event_groups.o: .\freertos\inc\projdefs.h
+.\debug\obj\event_groups.o: .\freertos\inc\portable.h
+.\debug\obj\event_groups.o: .\freertos\inc\deprecated_definitions.h
+.\debug\obj\event_groups.o: .\freertos\inc\portmacro.h
+.\debug\obj\event_groups.o: .\freertos\inc\mpu_wrappers.h
+.\debug\obj\event_groups.o: .\freertos\inc\task.h
+.\debug\obj\event_groups.o: .\freertos\inc\list.h
+.\debug\obj\event_groups.o: .\freertos\inc\timers.h
+.\debug\obj\event_groups.o: .\freertos\inc\event_groups.h

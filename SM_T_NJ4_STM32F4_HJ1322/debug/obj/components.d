@@ -1,0 +1,13 @@
+.\debug\obj\components.o: components\components.c
+.\debug\obj\components.o: .\drivers\board.h
+.\debug\obj\components.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\obj\components.o: .\freertos\inc\FreeRTOS.h
+.\debug\obj\components.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\debug\obj\components.o: .\freertos\inc\FreeRTOSConfig.h
+.\debug\obj\components.o: .\freertos\inc\projdefs.h
+.\debug\obj\components.o: .\freertos\inc\portable.h
+.\debug\obj\components.o: .\freertos\inc\deprecated_definitions.h
+.\debug\obj\components.o: .\freertos\inc\portmacro.h
+.\debug\obj\components.o: .\freertos\inc\mpu_wrappers.h
+.\debug\obj\components.o: .\freertos\inc\task.h
+.\debug\obj\components.o: .\freertos\inc\list.h

@@ -1,0 +1,106 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Interrupts]
+Enabled=1
+[MemConfig]
+Base=1
+Manual=0
+Ddf=1
+TypeViol=0
+Stop=1
+[Simulator]
+Freq=10000000
+MultiCoreRunAll=1
+[DebugChecksum]
+Checksum=-507106398
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=0
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000000
+[CodeCoverage]
+Enabled=_ 0
+[Trace1]
+Enabled=0
+ShowSource=1
+[struct_types]
+Fmt0=CAN_RxHeaderTypeDef-ExtId	4	0
+Fmt1=CAN_RxHeaderTypeDef-StdId	4	0
+Fmt2=struct rt_tm-day	3	0
+Fmt3=struct rt_tm-hour	3	0
+Fmt4=struct rt_tm-min	3	0
+Fmt5=struct rt_tm-mon	3	0
+Fmt6=struct rt_tm-sec	3	0
+Fmt7=struct rt_tm-year	3	0
+[array_types]
+Fmt0=uint32_t[4]	4	0
+Fmt1=uint8_t[1024]	4	0
+Fmt2=uint8_t[120]	4	0
+[watch_formats]
+Fmt0={W}1:can_id	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\homer4t-yxzg}.312.4" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\homer4t-yxzg}.297.3" 0 0 1 "" 0 "" 0
+Count=2
+[Aliases]
+A0=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\drivers\board.c" ""
+A1=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\drivers\drv_rtc.c" ""
+A2=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c" ""
+A3=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\libraries\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c" ""
+A4=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\libraries\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rtc.c" ""
+A5=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\libraries\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c" ""
+A6=_ "C:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\mbrtu\mbrtu.c" ""
+A7=_ "D:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\drivers\board.c" ""
+A8=_ "D:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\drivers\drv_rtc.c" ""
+A9=_ "D:\work2021\YXZG-4G-Cat1\program\STM32F407-App-Hal-IAR\user\main.c" ""
+A10=_ "D:\work2021\YXZG-4G-Cat1\program\homer4t-yxzg\STM32F407-App-Hal-IAR\drivers\board.c" ""
+A11=_ "D:\work2021\YXZG-4G-Cat1\program\homer4t-yxzg\STM32F407-App-Hal-IAR\libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\iar\startup_stm32f407xx.s" ""
+A12=_ "D:\work2021\YXZG-4G-Cat1\program\homer4t-yxzg\STM32F407-App-Hal-IAR\libraries\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_sdmmc.c" ""
+A13=_ "D:\work2021\YXZG-4G-Cat1\program\homer4t-yxzg\STM32F407-App-Hal-IAR\user\main.c" ""
+Count=14
+SuppressDialog=1
